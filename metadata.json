@@ -1,0 +1,8 @@
+{
+  "name": "Remix JOB FIT AI - AI 직무 적합도 \u0026 취업 분석 플랫폼",
+  "description": "사용자의 보유 역량과 채용 공고를 AI로 정밀 분석하여 직무 적합도, 예상 합격 경쟁력, 맞춤형 역량 개선 가이드를 제공하는 취업 전략 분석 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
